@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(/footer/bytech-inicial/img/fundo2.png);
+    background-size: cover;
+    background-color: black;
+}
+
+.back {
+
+    position: relative;
+    width: 60%;
+    height: 1000px;
+    left: 20%;
+    border-radius: 5%;
+
+}
+
+.F1 {
+    position: relative;
+    border-radius: 22px;
+    height: 17%;
+    width: 20%;
+    margin-top: 3%;
+
+}
+
+.f1_1 {
+    position: relative;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 80%;
+    width: 500%;
+    margin-top: 3%;
+}
+
+.f1_2 {
+    position: relative;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 80%;
+    width: 500%;
+    margin-top: 3%;
+}
+
+.f1_3 {
+    position: relative;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 80%;
+    width: 500%;
+    margin-top: 3%;
+}
+
+.f1_4 {
+    position: relative;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 80%;
+    width: 500%;
+    margin-top: 3%;
+}
+
+.hr1 {
+    position: absolute;
+    width: 90%;
+    margin-top: 8.5%;
+    left: 5%;
+    background-color: #a0a0a0;
+}
+
+
+.f1_5 {
+    position: absolute;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 17%;
+    width: 20%;
+    margin-top: 20%;
+    left: 5%;
+}
+
+.f1_6 {
+    position: absolute;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 17%;
+    width: 20%;
+    margin-top: 20%;
+    left: 40%;
+}
+
+.f1_7 {
+    position: absolute;
+    background-color: #bdc5ca;
+    border-radius: 22px;
+    height: 17%;
+    width: 20%;
+    margin-top: 20%;
+    left: 75%;
+}
+
+.hr2 {
+    position: absolute;
+    width: 90%;
+    margin-top: 60%;
+    left: 5%;
+
+    border: 3px solid #a0a0a0;
+}
+
+.mainspace {
+    margin-bottom: 22%;
+}
+
+.f1_1 img {
+    position: absolute;
+    width: 20%;
+    top: 4%;
+    left: 40%;
+}
+
+.f1_2 img {
+    position: absolute;
+    width: 20%;
+    top: 4%;
+    left: 40%;
+}
+
+.f1_3 img {
+    position: absolute;
+    width: 20%;
+    top: 4%;
+    left: 40%;
+}
+
+.f1_4 img {
+    position: absolute;
+    width: 20%;
+    top: 4%;
+    left: 40%;
+}
+
+.f1_5 img {
+    position: absolute;
+    width: 110%;
+    top: 5%;
+    left: -5%;
+}
+
+.f1_6 img {
+    position: absolute;
+    width: 110%;
+    top: 5%;
+    left: -5%;
+}
+
+.f1_7 img {
+    position: absolute;
+    width: 110%;
+    top: 5%;
+    left: -5%;
+}

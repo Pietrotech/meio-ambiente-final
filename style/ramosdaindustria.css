@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.quadradointerno h1 {
+    position: relative;
+    left: 25%;
+
+}
+
+.quadradointerno h2 {
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+.quadradointerno {
+    position: relative;
+    background-color: #b4afaf;
+    width: 33%;
+    height: 1100px;
+    left: 33%;
+    border-radius: 5%;
+    padding: 20px;
+
+
+}
+
+
+body {
+    background-image: url(/footer/bytech-inicial/img/fundo2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #979494;
+    background-color: black;
+    height: 1150px;
+
+}
+
+.container_rodape {
+    background-color: rgb(192, 192, 192);
+    width: 100%;
+    height: 440px;
+}
+
+.logo img {
+    float: left;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.logo h1 {
+    position: absolute;
+    left: 12.5%;
+    margin-top: 1.5%;
+
+    font-family: "gotham-bold", Helvetica, Arial, sans-serif;
+}
+
+.linha hr {
+    position: absolute;
+    width: 90%;
+    margin-top: 5%;
+    left: 5%;
+
+    border: 2px solid black;
+}
+
+.engrenagem img {
+    position: relative;
+    top: -1.5em;
+    left: 25%;
+    opacity: 0.5;
+}
+
+.facebook img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 80%;
+}
+
+.facebook a {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 81.5%;
+    margin-top: 0.2%;
+
+    color: black;
+}
+
+.instagram img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 80%;
+    margin-top: 2%;
+}
+
+.instagram a {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 81.5%;
+    margin-top: 2.2%;
+
+    color: black;
+}
+
+.links_internos a {
+    position: absolute;
+    margin-top: 10%;
+    left: 10%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.links_internos2 a {
+    position: absolute;
+    margin-top: 13%;
+    left: 10%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.links_internos3 a {
+    position: absolute;
+    margin-top: 10%;
+    left: 25%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.links_internos4 a {
+    position: absolute;
+    margin-top: 10%;
+    left: 35%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.container_immg img {
+    position: absolute;
+    margin-top: 7%;
+    left: 70%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "gotham-bold", Helvetica, Arial, sans-serif;
+    display: flexbox;
+}
+
+header h1 {
+    position: absolute;
+    top: 1.5%;
+    left: 46%;
+    font-size: xx-large;
+}
+
+.engrenagem2 img {
+    position: absolute;
+    top: -2.4%;
+    left: 52%;
+    opacity: 0.5;
+}
+
+.cabeçario2 {
+    position: absolute;
+    top: 0%;
+    left: 87.1%;
+    opacity: 0.5;
+}
+
+.linha2 hr {
+    position: absolute;
+    width: 85%;
+    margin-top: 0.5%;
+    left: 5%;
+
+    border: 1px solid black;
+}
+
+.linha3 hr {
+    position: absolute;
+    width: 4.5%;
+    margin-top: 1.8%;
+    left: 83.2%;
+    transform: rotate(30deg);
+
+    border: 1px dashed black;
+}
+
+header h2 {
+    position: absolute;
+    top: 1.2%;
+    left: 12%;
+    color: #050505;
+    font-size: 32px;
+}
+
+header {
+    background-color: #BFBFBF;
+    width: 100%;
+    height: 150px;
+}
+
+.titulo-naruteza {
+    position: relative;
+    left: -5%;
+}
+
+.titulo-ambiental {
+    position: relative;
+    left: -6%;
+}
+
+.titulo-poluentes {
+    position: relative;
+    left: -2%;
+}
+
+.titulo-desmatamento {
+    position: relative;
+    left: 5.5%;
+}
+
+.titulo-consumo {
+    position: relative;
+    left: -1%;
+}

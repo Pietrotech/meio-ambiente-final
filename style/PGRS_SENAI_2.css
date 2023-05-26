@@ -1,0 +1,530 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.container__cabecario {
+    position: relative;
+    background-color: #D3F8CF;
+}
+
+.logo_do_senai {
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.titulo_movan h2 {
+    position: relative;
+    font-family: "gotham-bold", Helvetica, Arial, sans-serif;
+    width: 250px;
+    height: 24px;
+}
+
+.titulo_morvan {
+    position: relative;
+    margin-left: 13%;
+    margin-top: -2em;
+    margin-bottom: 2%;
+}
+
+.linha_cabecario {
+    position: relative;
+    border: 1px solid black;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+.logo_bytech {
+    position: relative;
+    margin-left: 94%;
+    margin-top: -6em;
+}
+
+.linha_invi {
+    position: relative;
+    margin-left: 2em;
+    margin-right: 2em;
+    border: 1px solid #D3F8CF;
+}
+
+.titulo_cabecario {
+    position: relative;
+    margin-left: 33%;
+    margin-bottom: 1%;
+    margin-top: -13px;
+}
+
+
+
+
+
+
+
+.container__main img {
+    position: relative;
+    margin-left: 60%;
+}
+
+.titulo_principal {
+    position: relative;
+    margin-top: -4.2em;
+    margin-bottom: 3em;
+    margin-left: 35%;
+}
+
+.quadradointerno h1 {
+    position: relative;
+    left: 8.5%;
+}
+
+.quadradointerno {
+    position: relative;
+    background-color: #c2ecc1de;
+    width: 50%;
+    height: 600px;
+    left: 25%;
+    border-radius: 3%;
+    padding: 20px;
+    box-shadow: 0 0 5px rgb(33, 112, 14),
+    0 0 25px rgb(33, 112, 14),
+    0 0 50px rgb(33, 112, 14);
+}
+
+body{
+    background-color:  #E8FFF0;
+}
+
+.pgrs{
+    position: relative;
+    left: 7%;
+    width: 30%;
+    top: 7%;
+}
+
+.titulo-pgrs {
+    position: relative;
+    top: 2%;
+    margin-left: 7.4em;
+}
+
+.titulo_aviao1 {
+    position: relative;
+    left: 40%;
+    top: -27%;
+    margin-top: 15px;
+}
+
+.texto_aviao1 {
+    position: relative;
+    left: 41%;
+    margin-right: 2em;
+    margin-top: -13%;
+    font-weight: 200;
+    font-size: x-large;
+}
+
+
+.avião_img {
+    position: relative;
+    width: 70%;
+    left: 47%;
+    margin-top: -22%;
+}
+
+.texto_2 {
+    position: relative;
+    font-size: large;
+    font-weight: 600;
+    margin-top: 3em;
+    margin-left: 4em;
+    margin-right: 3.8em;
+}
+
+.patinha1 {
+    position: relative;
+    margin-left: 50%;
+    margin-top: -5em;
+}
+
+.patinha1:hover {
+    opacity: 30%;
+}
+
+.patinha2 {
+    position: relative;
+    margin-top: -10em;
+    margin-left: 38%;
+}
+
+.patinha2:hover {
+    opacity: 30%;
+}
+
+
+.container__fotos_senai {
+    background-color:  #c2ecc1de;
+    width: 52%;
+    height: 700px;
+    position: relative;
+    margin-top: -4em;
+    border-radius: 3%;
+    margin-left: 25%;
+    box-shadow: 0 0 5px rgb(33, 112, 14),
+    0 0 25px rgb(33, 112, 14),
+    0 0 50px rgb(33, 112, 14);
+}
+
+.titulo_segundo_quadrado {
+    position: relative;
+    margin-left: 20%;
+    margin-top: 1em;
+}
+
+.linha_lapis {
+    position: relative;
+    margin-left: 77%;
+    margin-top: -15em;
+}
+
+.imagem_senai_1 {
+    position: relative;
+    margin-top: 1em;
+    margin-left: 5%;
+    
+}
+
+.senai_texto_1 {
+     position: relative;
+     font-size: x-large;
+     margin-top: -6.5em;
+     margin-left: 50%;
+     margin-right: 3%;
+}
+
+.imagem_senai_2 {
+    position: relative;
+    margin-top: 12em;
+    margin-left: 52%;
+}
+
+.senai_texto_2 {
+    position: relative;
+    font-size: x-large;
+    margin-top: -6em;
+    margin-left: 5%;
+    margin-right: 48%;
+}
+
+.patinhas_3 {
+    position: relative;
+    margin-left: 27%;
+    margin-top: -3em;
+}
+
+.patinhas_3:hover {
+    opacity: 30%;
+}
+
+
+.patinhas_4 {
+    position: relative;
+    margin-left: 35%;
+    margin-top: -12em;
+}
+
+.patinhas_4:hover {
+    opacity: 30%;
+}
+
+
+.container__terceiro_quadrado {
+    position: relative;
+    background-color: #c2ecc1de;
+    width: 52%;
+    height: 920px;
+    margin-left: 25%;
+    border-radius: 3%;
+    box-shadow: 0 0 5px rgb(33, 112, 14),
+    0 0 25px rgb(33, 112, 14),
+    0 0 50px rgb(33, 112, 14);
+}
+
+.titulo_geral_energi {
+    position: relative;
+    margin-left: 29%;
+    margin-top: 1%;
+}
+
+.painel_Solar {
+    position: relative;
+    margin-left: 3em;
+    margin-top: 5%;
+}
+
+.texto_4 {
+    position: relative;
+    font-size: x-large;
+    font-weight: 600;
+    margin-left: 47%;
+    margin-top: -6em;
+}
+
+.retangulo_provisorio {
+    position: relative;
+    margin-top: 2em;
+    margin-left: 17%;
+}
+
+.titulo_video {
+    position: relative;
+    margin-top: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.texto_provisorio {
+    position: relative;
+    margin-top: -7em;
+    margin-left: 35%;
+}
+
+.patinhas_5 {
+    position: relative;
+    margin-left: 55%;
+    margin-top: -5em;
+}
+
+.patinhas_5:hover {
+    opacity: 30%;
+}
+
+
+.quadrado_4 {
+    position: relative;
+    background-color: #c2ecc1de;
+    width: 52%;
+    height: 440px;
+    border-radius: 3%;
+    margin-left: 25%;
+    box-shadow: 0 0 5px rgb(33, 112, 14),
+    0 0 25px rgb(33, 112, 14),
+    0 0 50px rgb(33, 112, 14);
+}
+
+.img_5rs {
+    position: relative;
+    margin-top: 2em;
+}
+
+.titulo_objetivo {
+    position: relative;
+    margin-left: 35%;
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: -13em;
+    margin-bottom: 10em;
+}
+
+.texto_5 {
+    position: relative;
+    font-size: larger;
+    font-weight: 400;
+    margin-left: 35%;
+    margin-top: -11em;
+}
+
+.doguinho2 {
+    position: relative;
+    margin-left: 75%;
+    margin-top: -7em;
+}
+
+.linha_do_doguinho {
+    position: relative;
+    border: 2px solid black;
+    margin-left: 2em;
+    margin-right: 13em;
+    margin-top: 7.5em;
+}
+
+.linha_do_doguinho_2 {
+    position: relative;
+    border: 2px solid black;
+    border-radius: 20em;
+    margin-left: 91.4%;
+    margin-right: 3%;
+    margin-top: -1.75em;
+}
+
+.simbolo_reciclagem {
+    position: relative;
+    margin-top: 3em;
+    margin-left: 4em;
+    border-radius: 30%;
+    box-shadow: 0 10px 30px rgb(0, 0, 0),
+    0 0 0 rgb(0, 0, 0),
+    20px 0 40px rgb(5, 143, 5);
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container_rodape {
+    background-color: #A8E2A7;
+    width: 100%;
+    height: 440px;
+    margin-top: 10em;
+}
+
+.logo img {
+    float: left;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.logo h1 {
+    position: absolute;
+    left: 12.5%;
+    margin-top: 1.5%;
+    
+    font-family: "gotham-bold", Helvetica, Arial, sans-serif;
+}
+
+.linha hr {
+    position: absolute;
+    width: 90%;
+    margin-top: 5%;
+    left: 5%;
+
+   border: 2px solid black;
+}
+
+.engrenagem img {
+    position: relative;
+    top: -1.5em;
+    left: 25%;
+    opacity: 0.5;
+}
+
+.facebook img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 80%;
+}
+
+.facebook a {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 81.5%;
+    margin-top: 0.2%;
+    color: black;
+}
+
+.instagram img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 80%;
+    margin-top: 2%;
+}
+
+.instagram a {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 81.5%;
+    margin-top: 2.2%;
+    color: black;
+}
+
+.links_internos a {
+     position: absolute;
+     margin-top: 10%;
+     left: 10%;
+     font-size: 20px;
+     color: black;
+}
+
+.links_internos2 a {
+    position: absolute;
+    margin-top: 13%;
+    left: 10%;
+    font-size: 20px;
+    color: black;
+}
+
+.links_internos3 a {
+    position: absolute;
+    margin-top: 10%;
+    left: 25%;
+    font-size: 20px;
+    color: black;
+}
+
+.links_internos4 a {
+    position: absolute;
+    margin-top: 10%;
+    left: 35%;
+    font-size: 20px;
+    color: black;
+}
+
+.container_immg img {
+    position: absolute;
+    margin-top: 7%;
+    left: 70%;
+}
+
+.container__rodape {
+    position: relative;
+    margin-top: -60em;
+}
+
+.tudo {
+    position: relative;
+    margin-top: -77em;
+    margin-bottom: 0;
+}
+
+.tudo2 {
+    height: 1000px;
+}
+
+.container__outros_trabalhos {
+    position: relative;
+    background-color: #93CD95B2;
+    padding: 10px 2em;
+    color: #556A54;
+    opacity: 90%;
+    margin-left: 88%;
+}
+
+.container__geral_outros {
+    position: relative;
+    margin-top: 12em;
+}
+
+.container__seta {
+    position: relative;
+    margin-top: 10px;
+}
+
+.video_youtube {
+    position: relative;
+    margin-left: 22%;
+    margin-top: 3em;
+}
