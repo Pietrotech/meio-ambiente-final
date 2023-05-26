@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+}
+
+.container_rodape {
+    position: absolute;
+    background-color: #BFBFBF;
+    width: 100%;
+    height: 440px;
+    margin-top: 4.5em;
+}
+
+.logo img {
+    float: left;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.logo h1 {
+    position: absolute;
+    left: 12.5%;
+    margin-top: 1.5%;
+    
+    font-family: "gotham-bold", Helvetica, Arial, sans-serif;
+}
+
+.linha hr {
+    position: absolute;
+    width: 90%;
+    margin-top: 5%;
+    left: 5%;
+
+   border: 2px solid black;
+}
+
+.engrenagem img {
+    position: relative;
+    top: -1.5em;
+    left: 25%;
+    opacity: 0.5;
+}
+
+.facebook img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 80%;
+}
+
+.facebook a {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 81.5%;
+    margin-top: 0.2%;
+
+    color: black;
+}
+
+.instagram img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 80%;
+    margin-top: 2%;
+}
+
+.instagram a {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 81.5%;
+    margin-top: 2.2%;
+
+    color: black;
+}
+
+.links_internos a {
+     position: absolute;
+     margin-top: 10%;
+     left: 10%;
+
+     font-size: 20px;
+
+     color: black;
+}
+
+.links_internos2 a {
+    position: absolute;
+    margin-top: 13%;
+    left: 10%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.links_internos3 a {
+    position: absolute;
+    margin-top: 10%;
+    left: 25%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.links_internos4 a {
+    position: absolute;
+    margin-top: 10%;
+    left: 35%;
+
+    font-size: 20px;
+
+    color: black;
+}
+
+.container_immg img {
+    position: absolute;
+    margin-top: 7%;
+    left: 70%;
+}

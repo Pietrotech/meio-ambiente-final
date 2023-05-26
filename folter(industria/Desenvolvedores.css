@@ -1,0 +1,167 @@
+.Desenvolvedores img {
+     width: 340px;
+     height: 300px;
+
+     position: relative;
+     margin-top: 3%;
+     margin-left: 3%;
+     border-radius: 8%;
+}
+
+.back {
+    font-family: "gotham-bold", Helvetica, Arial, sans-serif;
+    font-size: larger;
+}
+
+.tittle {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 50%;
+}
+
+.subtittle {
+    position: absolute;
+    margin-top: -21%;
+    margin-left: 36%;
+}
+
+.H3 {
+    position: absolute;
+    margin-top: -16%;
+    margin-left: 36%;
+}
+
+.Paragrafo1 p {
+    position: absolute;
+    margin-top: -14%;
+    margin-left: 36%;
+}
+
+.H4{
+    position: absolute;
+    margin-top: -16%;
+    margin-left: 65%;
+}
+
+.Paragrafo2 p {
+    position: absolute;
+    margin-top: -14%;
+    margin-left: 65%;
+}
+
+.Paragrafo3 p {
+    position: absolute;
+    margin-top: -12%;
+    margin-left: 65%;
+}
+
+.Paragrafo4 p {
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 65%;
+}
+
+.pietro img {
+    position: absolute;
+    width: 190px;
+    height: 150px;
+    margin-top: 8%;
+    margin-left: 1%
+}
+
+.pietro h1 {
+    position: absolute;
+    margin-top: 21%;
+    margin-left: 5.2%;
+}
+
+.pietro h2 {
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 19%;
+}
+
+.pietro p {
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 19%;
+}
+
+.guilherme img {
+    position: absolute;
+    width: 190px;
+    height: 150px;
+    margin-top: 30%;
+    margin-left: 1%
+}
+
+.guilherme h1 {
+    position: absolute;
+    margin-top: 43%;
+    margin-left: 1.2%;
+}
+
+.guilherme h2 {
+    position: absolute;
+    margin-top: 31%;
+    margin-left: 19%;
+}
+
+.guilherme p {
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 19%;
+}
+
+.miguel img {
+    position: absolute;
+    width: 190px;
+    height: 150px;
+    margin-top: 51%;
+    margin-left: 1%
+}
+
+.miguel h1 {
+    position: absolute;
+    margin-top: 64%;
+    margin-left: 4%;
+}
+
+.miguel h2 {
+    position: absolute;
+    margin-top: 53%;
+    margin-left: 19%;
+}
+
+.miguel p {
+    position: absolute;
+    margin-top: 57%;
+    margin-left: 19%;
+}
+
+.felps img {
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    margin-top: 69.4%;
+    margin-left: 1%;
+    border-radius: 20px;
+}
+
+.felps h1 {
+    position: absolute;
+    margin-top: 86%;
+    margin-left: 5.2%;
+}
+
+.felps h2 {
+    position: absolute;
+    margin-top: 74%;
+    margin-left: 19%;
+}
+
+.felps p {
+    position: absolute;
+    margin-top: 78%;
+    margin-left: 19%;
+}

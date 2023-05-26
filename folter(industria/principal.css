@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(bytech-inicial/img/fundo2.png);
+    background-size: cover;
+    background-color: black;
+}
+
+.back {
+    background-color: rgb(206, 206, 206);
+    position: relative;
+    width: 60%;
+    height: 1500px;
+    left: 20%;
+    border-radius: 5%;
+}

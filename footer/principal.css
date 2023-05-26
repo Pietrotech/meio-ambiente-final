@@ -1,0 +1,490 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(bytech-inicial/img/fundo2.png);
+    background-color: black;
+    background-repeat: none;
+}
+
+.back {
+    background-color: rgb(206, 206, 206);
+    position: relative;
+    width: 60%;
+    height: 950px;
+    left: 20%;
+    border-radius: 5%;
+    margin-top: em;
+}
+
+button a{
+    color: black;
+}
+
+.button1 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 2%;
+    left: 8%;
+    border-radius: 10px;
+}
+
+.button1_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button1 img {
+    position: absolute;
+    width: 120px;
+    top: 12%;
+    left: 15.5%;
+}
+
+.button1 h3 {
+    position: relative;
+    top: 65%;
+    left: 33%;
+}
+
+.button2 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 2%;
+    left: 29%;
+    border-radius: 10px;
+}
+
+.button2_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button2 img {
+    position: absolute;
+    width: 120px;
+    top: 9.5%;
+    left: 15.5%;
+}
+
+.button2 h3 {
+    position: relative;
+    margin-top: 80%;
+}
+
+.button2 h3 strong {
+    position: relative;
+    left: 23%; 
+}
+
+.texto1 {
+    position: relative;
+    margin-left: 26%;
+}
+
+.button3 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 2%;
+    left: 51%;
+    border-radius: 10px;
+}
+
+.button3_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button3 img {
+    position: absolute;
+    width: 120px;
+    top: 12%;
+    left: 15.5%;
+}
+
+.button3 h3 {
+    position: relative;
+    top: 65%;
+    left: 2%;
+}
+
+.button4 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 2%;
+    left: 72%;
+    border-radius: 10px;
+}
+
+.button4_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button4 img {
+    position: absolute;
+    width: 120px;
+    top: 12%;
+    left: 15.5%;
+}
+
+.button4 h3 {
+    position: relative;
+    top: 65%;
+    left: 08%;
+}
+
+.hr1 hr {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    width: 80%;
+    height: 2px;
+    margin-top: 27%;
+    left: 8%;
+}
+
+.button5 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 30%;
+    left: 8%;
+    border-radius: 10px;
+}
+
+.button5_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button5 img {
+    position: absolute;
+    width: 120px;
+    top: 8%;
+    left: 15.5%;
+}
+
+.button5 h3 {
+    position: relative;
+    top: 60%;
+    left: 8%;
+}
+.button5 p {
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 25%;
+}
+
+.button6 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 30%;
+    left: 29%;
+    border-radius: 10px;
+}
+
+.button6_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button6 img {
+    position: absolute;
+    width: 120px;
+    top: 15.5%;
+    left: 15.5%;
+}
+
+.button6 h3 {
+    position: relative;
+    top: 60%;
+    left: 30%;
+}
+
+.button6 p {
+    position: absolute;
+    left: -13%;
+}
+
+.container__susten {
+    position: relative;
+    margin-right: 20%;
+}
+
+.button7 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 30%;
+    left: 51%;
+    border-radius: 10px;
+}
+
+.button7_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button7 img {
+    position: absolute;
+    width: 120px;
+    top: 12%;
+    left: 15.5%;
+}
+
+.button7 h3 {
+    position: relative;
+    top: 60%;
+    left: 10%;
+}
+.button7 p {
+    position: absolute;
+    left: 16%;
+}
+
+.button8 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 30%;
+    left: 72%;
+    border-radius: 10px;
+}
+
+.button8_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button8 img {
+    position: absolute;
+    width: 120px;
+    top: 12%;
+    left: 15.5%;
+}
+
+.button8 h3 {
+    position: relative;
+    top: 60%;
+    left: 15%;
+}
+.button8 p {
+    position: relative;
+    top: 60%;
+    left: 10%;
+}
+
+.hr2 hr {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    width: 80%;
+    height: 2px;
+    margin-top: 54.7%;
+    left: 8%;
+}
+
+.button9 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 58%;
+    left: 8%;
+    border-radius: 10px;
+}
+
+.button9_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button9 img {
+    position: absolute;
+    width: 120px;
+    top: 15.5%;
+    left: 15.5%;
+}
+
+.button9 h3 {
+    position: relative;
+    top: 60%;
+    left: 18%;
+}
+.button9 p {
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+
+.button10 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 58%;
+    left: 29%;
+    border-radius: 10px;
+}
+
+.button10_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button10 img {
+    position: absolute;
+    width: 120px;
+    top: 15.5%;
+    left: 15.5%;
+}
+
+.button10 h3 {
+    position: relative;
+    top: 65%;
+    left: 11%;
+}
+
+.button11 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 58%;
+    left: 51%;
+    border-radius: 10px;
+}
+
+.button11_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button11 img {
+    position: absolute;
+    width: 120px;
+    top: 15.5%;
+    left: 15.5%;
+}
+
+.button11 h3 {
+    position: relative;
+    top: 60%;
+    left: 24%;
+}
+
+.button12 {
+    background-color: #AAB3BA;
+    width: 16%;
+    height: 250px;
+    position: absolute;
+    margin-top: 58%;
+    left: 72%;
+    border-radius: 10px;
+}
+
+.button12_1 {
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    top: 78%;
+    left: 24%;
+    background-color: #6B7A86;
+}
+
+.button12 img {
+    position: absolute;
+    width: 120px;
+    top: 15.5%;
+    left: 15.5%;
+}
+
+.button12 h3 {
+    position: relative;
+    top: 60%;
+    left: 23%;
+}
+
